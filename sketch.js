@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-    background(0);
+    background('#RRGGBB');
 
     updatePlayer();
     updateBubbles();
