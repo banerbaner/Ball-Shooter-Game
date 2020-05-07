@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(400, 400);
+    createCanvas(600, 600);
     p = createVector(width / 2, height / 2)
     pVel = createVector(0, 0);
     force = createVector(0, 0);
